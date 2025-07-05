@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="784a9247-c10a-417d-9a6d-cd6b08231206" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YunMiiiii&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YunMiiiii/Study.git&quot;,
+    &quot;accountId&quot;: &quot;0ed15ff9-33c7-441d-8008-16f29fb3a35b&quot;
+  }
+}</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2xzYdZuCC3ohH9hutXVZIqANUz4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="784a9247-c10a-417d-9a6d-cd6b08231206" name="Changes" comment="" />
+      <created>1748942457523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748942457523</updated>
+      <workItem from="1748942458456" duration="78000" />
+      <workItem from="1748942555593" duration="171000" />
+      <workItem from="1748942963249" duration="3767000" />
+      <workItem from="1749220944271" duration="203000" />
+      <workItem from="1749221411348" duration="402000" />
+      <workItem from="1750522379309" duration="13000" />
+      <workItem from="1750522724029" duration="1056000" />
+      <workItem from="1750688820772" duration="1071000" />
+      <workItem from="1750775771874" duration="1281000" />
+      <workItem from="1750868506975" duration="914000" />
+      <workItem from="1750869807429" duration="150000" />
+      <workItem from="1750949603287" duration="1266000" />
+      <workItem from="1751085340502" duration="4202000" />
+      <workItem from="1751297054515" duration="185000" />
+      <workItem from="1751374041758" duration="1966000" />
+      <workItem from="1751473501434" duration="330000" />
+      <workItem from="1751553932992" duration="1871000" />
+      <workItem from="1751641244818" duration="1778000" />
+    </task>
+    <task id="LOCAL-00001" summary="Docs : UI 설계 도구 내용 추가">
+      <option name="closed" value="true" />
+      <created>1748948164860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748948164860</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Docs : 03. 애플리케이션 설계 파일 추가">
+      <option name="closed" value="true" />
+      <created>1749221624780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749221624780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Docs : 03. 애플리케이션 설계 파일 추가">
+      <option name="closed" value="true" />
+      <created>1749221735320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749221735320</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Docs : 04. 인터페이스 설계 파일 추가 및 하위분류 추가">
+      <option name="closed" value="true" />
+      <created>1750523552829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750523552829</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Docs : 인터페이스 대상 식별 하위분류 추가">
+      <option name="closed" value="true" />
+      <created>1750523663909</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750523663909</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Docs : 인터페이스 상세 설계 하위분류 추가">
+      <option name="closed" value="true" />
+      <created>1750523761719</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1750523761719</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Docs : 내외부 인터페이스 요구사항 내용 추가">
+      <option name="closed" value="true" />
+      <created>1750689455120</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1750689455120</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Docs :  요구공학 내용 추가">
+      <option name="closed" value="true" />
+      <created>1750775790443</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1750775790443</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Docs : 시스템 아키텍처 내용 추가">
+      <option name="closed" value="true" />
+      <created>1750869465952</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750869465952</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Docs : 인터페이스 시스템 내용 추가">
+      <option name="closed" value="true" />
+      <created>1750949626249</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1750949626249</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Docs : 데이터 명세화 내용 추가">
+      <option name="closed" value="true" />
+      <created>1751086019630</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1751086019630</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Docs : 오류 처리방안 명세화 내용 추가">
+      <option name="closed" value="true" />
+      <created>1751297221143</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1751297221143</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Docs : 인터페이스 설계 내용 추가">
+      <option name="closed" value="true" />
+      <created>1751378522411</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1751378522411</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Docs : 미들웨어 솔루션 내용 추가">
+      <option name="closed" value="true" />
+      <created>1751473632860</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1751473632860</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Docs : 파일 정리">
+      <option name="closed" value="true" />
+      <created>1751554085241</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1751554085241</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Docs : 02_SW_개발 파일 추가">
+      <option name="closed" value="true" />
+      <created>1751554363490</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1751554363490</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Docs : 자료 구조 파일 추가">
+      <option name="closed" value="true" />
+      <created>1751555930868</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1751555930868</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Docs : 02_데이터_조작_프로시저_작성 파일 추가">
+      <option name="closed" value="true" />
+      <created>1751556033652</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1751556033652</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Docs : 데이터_조작_프로시저_최적화 파일 추가">
+      <option name="closed" value="true" />
+      <created>1751556091160</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1751556091160</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Docs : 모듈 구현 파일 추가">
+      <option name="closed" value="true" />
+      <created>1751641776804</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1751641776804</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Docs : 통합 구현 관리 파일 추가">
+      <option name="closed" value="true" />
+      <created>1751641871279</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1751641871279</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Docs : UI 설계 도구 내용 추가" />
+    <MESSAGE value="Docs : 03. 애플리케이션 설계 파일 추가" />
+    <MESSAGE value="Docs : 04. 인터페이스 설계 파일 추가 및 하위분류 추가" />
+    <MESSAGE value="Docs : 인터페이스 대상 식별 하위분류 추가" />
+    <MESSAGE value="Docs : 인터페이스 상세 설계 하위분류 추가" />
+    <MESSAGE value="Docs : 내외부 인터페이스 요구사항 내용 추가" />
+    <MESSAGE value="Docs :  요구공학 내용 추가" />
+    <MESSAGE value="Docs : 시스템 아키텍처 내용 추가" />
+    <MESSAGE value="Changes" />
+    <MESSAGE value="Docs : 인터페이스 시스템 내용 추가" />
+    <MESSAGE value="Docs : 데이터 명세화 내용 추가" />
+    <MESSAGE value="Docs : 오류 처리방안 명세화 내용 추가" />
+    <MESSAGE value="Docs : 인터페이스 설계 내용 추가" />
+    <MESSAGE value="Docs : 미들웨어 솔루션 내용 추가" />
+    <MESSAGE value="Docs : 파일 정리" />
+    <MESSAGE value="Docs : 02_SW_개발 파일 추가" />
+    <MESSAGE value="Docs : 자료 구조 파일 추가" />
+    <MESSAGE value="Docs : 02_데이터_조작_프로시저_작성 파일 추가" />
+    <MESSAGE value="Docs : 데이터_조작_프로시저_최적화 파일 추가" />
+    <MESSAGE value="Docs : 모듈 구현 파일 추가" />
+    <MESSAGE value="Docs : 통합 구현 관리" />
+    <MESSAGE value="Docs : 통합 구현 관리 파일 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Docs : 통합 구현 관리 파일 추가" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
