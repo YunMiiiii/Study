@@ -84,7 +84,7 @@
       <workItem from="1751473501434" duration="330000" />
       <workItem from="1751553932992" duration="1871000" />
       <workItem from="1751641244818" duration="1778000" />
-      <workItem from="1751732607606" duration="308000" />
+      <workItem from="1751732607606" duration="511000" />
     </task>
     <task id="LOCAL-00001" summary="Docs : UI 설계 도구 내용 추가">
       <option name="closed" value="true" />
@@ -270,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751732913672</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Docs : 리스트 내용 추가">
+      <option name="closed" value="true" />
+      <created>1751733071506</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1751733071506</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +323,8 @@
     <MESSAGE value="Docs : 통합 구현 관리 파일 추가" />
     <MESSAGE value="Docs : 스택 내용 추가" />
     <MESSAGE value="Docs : 큐 내용 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="Docs : 큐 내용 추가" />
+    <MESSAGE value="Docs : 리스트 내용 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Docs : 리스트 내용 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
