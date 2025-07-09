@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="784a9247-c10a-417d-9a6d-cd6b08231206" name="Changes" comment="" />
+    <list default="true" id="784a9247-c10a-417d-9a6d-cd6b08231206" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADsP/01_데이터의_이해/01_데이터와_정보/1.데이터의 정의.md" beforeDir="false" afterPath="$PROJECT_DIR$/ADsP/01_데이터의_이해/01_데이터와_정보/1.데이터의 정의.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +90,8 @@
       <workItem from="1751732607606" duration="511000" />
       <workItem from="1751814574528" duration="418000" />
       <workItem from="1751901485147" duration="426000" />
+      <workItem from="1751990366893" duration="1485000" />
+      <workItem from="1752068078197" duration="2039000" />
     </task>
     <task id="LOCAL-00001" summary="Docs : UI 설계 도구 내용 추가">
       <option name="closed" value="true" />
@@ -296,7 +301,31 @@
       <option name="project" value="LOCAL" />
       <updated>1751901624669</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Docs : ADsP 파일 추가">
+      <option name="closed" value="true" />
+      <created>1751990493042</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1751990493042</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Docs : Readme 추가">
+      <option name="closed" value="true" />
+      <created>1751990627049</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1751990627049</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Docs : ADsP 1장 파일 추가">
+      <option name="closed" value="true" />
+      <created>1751990771486</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1751990771486</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,9 +346,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Docs : 04. 인터페이스 설계 파일 추가 및 하위분류 추가" />
-    <MESSAGE value="Docs : 인터페이스 대상 식별 하위분류 추가" />
-    <MESSAGE value="Docs : 인터페이스 상세 설계 하위분류 추가" />
     <MESSAGE value="Docs : 내외부 인터페이스 요구사항 내용 추가" />
     <MESSAGE value="Docs :  요구공학 내용 추가" />
     <MESSAGE value="Docs : 시스템 아키텍처 내용 추가" />
@@ -342,7 +368,10 @@
     <MESSAGE value="Docs : 리스트 내용 추가" />
     <MESSAGE value="Docs : 프로시저 내용 추가" />
     <MESSAGE value="Docs : 프로그램 디버깅 내용 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="Docs : 프로그램 디버깅 내용 추가" />
+    <MESSAGE value="Docs : ADsP 파일 추가" />
+    <MESSAGE value="Docs : Readme 추가" />
+    <MESSAGE value="Docs : ADsP 1장 파일 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Docs : ADsP 1장 파일 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
