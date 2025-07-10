@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="784a9247-c10a-417d-9a6d-cd6b08231206" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="784a9247-c10a-417d-9a6d-cd6b08231206" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +88,7 @@
       <workItem from="1751814574528" duration="418000" />
       <workItem from="1751901485147" duration="426000" />
       <workItem from="1751990366893" duration="1485000" />
-      <workItem from="1752068078197" duration="3654000" />
+      <workItem from="1752068078197" duration="4092000" />
     </task>
     <task id="LOCAL-00001" summary="Docs : UI 설계 도구 내용 추가">
       <option name="closed" value="true" />
@@ -332,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752071143003</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Docs : 데이터와 정보 내용 추가">
+      <option name="closed" value="true" />
+      <created>1752073538419</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1752073538419</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,7 +359,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Docs :  요구공학 내용 추가" />
     <MESSAGE value="Docs : 시스템 아키텍처 내용 추가" />
     <MESSAGE value="Changes" />
     <MESSAGE value="Docs : 인터페이스 시스템 내용 추가" />
@@ -378,7 +383,8 @@
     <MESSAGE value="Docs : Readme 추가" />
     <MESSAGE value="Docs : ADsP 1장 파일 추가" />
     <MESSAGE value="Docs : 데이터의 정의 내용 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="Docs : 데이터의 정의 내용 추가" />
+    <MESSAGE value="Docs : 데이터와 정보 내용 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Docs : 데이터와 정보 내용 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
