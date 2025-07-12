@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbc9b08e-2b9e-44bb-a14f-cdaa4ff6dd18" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ADsP/01_데이터의_이해/01_데이터와_정보/2.데이터와 정보.md" beforeDir="false" afterPath="$PROJECT_DIR$/ADsP/01_데이터의_이해/01_데이터와_정보/2.데이터와 정보.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ADsP/01_데이터의_이해/02_데이터베이스/1.데이터베이스 개요.md" beforeDir="false" afterPath="$PROJECT_DIR$/ADsP/01_데이터의_이해/02_데이터베이스/1.데이터베이스 개요.md" afterDir="false" />
-    </list>
+    <list default="true" id="bbc9b08e-2b9e-44bb-a14f-cdaa4ff6dd18" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,8 +24,22 @@
   }
 }]]></component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Docs : 데이터와 정보 수정">
+      <option name="closed" value="true" />
+      <created>1752246211286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752246211286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Docs : 데이터와 정보 내용 추가" />
+    <MESSAGE value="Docs : 데이터와 정보 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="Docs : 데이터와 정보 수정" />
+  </component>
 </project>
